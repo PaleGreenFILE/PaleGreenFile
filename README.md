@@ -42,7 +42,7 @@
     <a href="https://www.linkedin.com/in/charly-angels-84a495222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
     
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+  ![snake svg](https://github.com/PaleGreenFILE/PaleGreenFile/blob/output/github-contribution-grid-snake.svg)
     
   </div>
 
