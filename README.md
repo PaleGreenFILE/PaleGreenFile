@@ -33,14 +33,14 @@
   ##
   
   <div>
-    <a href="" target="_blank"><img src="" target="_blank"></a>
-    <a href="" target="_blank"><img src="" target="_blank"></a>
-    <a href="" target="_blank"><img src="" target="_blank"></a>
-    <a href="" target="_blank"><img src="" target="_blank"></a>
-    <a href="" target="_blank"><img src="" target="_blank"></a>
-    <a href="" target="_blank"><img src="" target="_blank"></a>
-    <a href="" target="_blank"><img src="" target="_blank"></a>
-    <a href="" target="_blank"><img src="" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/UCb8yfOchZyO9C42KkRbE59w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/charly.angels2a/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.twitch.tv/wolfking__tv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/qpAYQ73hrF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="mailto:charlyangelspro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.facebook.com/charly.angelsperso/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/charly-angels-84a495222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
     
     ![Snake animation](https://github.com/PaleGreenFILE/PaleGreenFILE/blob/output/github-contribution-grid-snake.svg)
     
