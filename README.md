@@ -10,6 +10,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaleGreenFILE&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaleGreenFILE&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
 <div style="display: inline_block"><br>
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -23,15 +24,17 @@
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-    <img align"right"   src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.buzzfrance.fr%2Fquel-personnage-de-manga-es-tu%2F&psig=AOvVaw0_UOALCIXuTniLIoUA43YS&ust=1635830018121000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjE7u6z9vMCFQAAAAAdAAAAABAD">
+    <img align"right" height="250" width="200" src="https://cdn.discordapp.com/attachments/482828551570325506/904602865983709214/download20211101062757.png">
+   
 </div>
   
   ##
   
   <div>
+    </div>
+    
     
 
 
