@@ -25,9 +25,12 @@
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"">
+    <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+    <img align"right"   src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.buzzfrance.fr%2Fquel-personnage-de-manga-es-tu%2F&psig=AOvVaw0_UOALCIXuTniLIoUA43YS&ust=1635830018121000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjE7u6z9vMCFQAAAAAdAAAAABAD">
+                                                                                                                                            
+                                                                                                                                          
     
     
   </div>
