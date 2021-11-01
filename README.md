@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey im PaleGreenFile 👋
 
-<!--
-**PaleGreenFILE/PaleGreenFile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently Developper Full Stack Speciality Dart & Flutter.
+- 📫 Contact-me on my email : charlyangelspro@gmail.com
+- 😄 Pronouns: Angels Records
+- 
+<div>
+  <a href="https://github.com/PaleGreenFILE">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaleGreenFILE&show_icons=true&theme=cobalt">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaleGreenFILE&layout=compact&langs_count=16&theme=cobalt">
+">
+    </div>
+  
+  ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
