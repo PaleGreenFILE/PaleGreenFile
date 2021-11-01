@@ -33,9 +33,17 @@
   ##
   
   <div>
-    </div>
+    <a href="" target="_blank"><img src="" target="_blank"></a>
+    <a href="" target="_blank"><img src="" target="_blank"></a>
+    <a href="" target="_blank"><img src="" target="_blank"></a>
+    <a href="" target="_blank"><img src="" target="_blank"></a>
+    <a href="" target="_blank"><img src="" target="_blank"></a>
+    <a href="" target="_blank"><img src="" target="_blank"></a>
+    <a href="" target="_blank"><img src="" target="_blank"></a>
+    <a href="" target="_blank"><img src="" target="_blank"></a>
     
+    ![Snake animation](https://github.com/PaleGreenFILE/PaleGreenFILE/blob/output/github-contribution-grid-snake.svg)
     
-
+  </div>
 
 
