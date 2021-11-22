@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/PaleGreenFILE">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PaleGreenFILE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuanwar072&layout=compact&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaleGreenFILE&layout=compact&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
