@@ -26,7 +26,7 @@
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align"center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-    <img align"right"   height="200" width="200" src="https://cdn.discordapp.com/attachments/482828551570325506/904602865983709214/download20211101062757.png">
+  
    
 </div>
   
