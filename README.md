@@ -1,7 +1,7 @@
                                                       ### Hey im PaleGreenFile 👋 ###
 
 
- - 🔭 I’m currently Developper Full Stack Speciality Dart & Flutter.
+ - 🔭 I’m currently Developper Full Stack Speciality React , Next,JS , HTML, CSS ,SCSS, MONGODB , FIREBASE.
  - 📫 Contact-me on my email : charlyangelspro@gmail.com
  - 😄 Pronouns: Angels Records
  - 
