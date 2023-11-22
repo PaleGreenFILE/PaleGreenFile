@@ -2,7 +2,7 @@
 
 
  - 🔭 I’m currently Developper Full Stack Speciality React , Next,JS , HTML, CSS ,SCSS, MONGODB , FIREBASE.
- - 📫 Contact-me on my email : charlyangelspro@gmail.com
+ - 📫 Contact-me on my email : angelsdevcompany@gmail.com
  - 😄 Pronouns: Angels Records
  - 
 <div>
